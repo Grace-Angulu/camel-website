@@ -1,12 +1,12 @@
 ---
-title: "Apache Camel 3 What's New (top 10)"
-date: 2019-12-02
-author: Claus Ibsen
-categories: ["Releases"]
+Title: "Apache Camel 3 What's New (Top 10)"
+Date: 2019-12-02
+Author: Claus Ibsen
+Categories: ["Releases"]
 preview: Top 10 of what's new in Apache Camel version 3
 ---
 
-Apache Camel 3 was released last thursday November 28th 2019, which also happens to be the day of the US Thanksgiving. This was not intentionally but we can say its a big thanks from us to the community with a brand new major version of Camel - this does not come often by. In fact, its 10 years since Camel 2 hit the streets. So this 3rd generation is long overdue.
+Apache Camel 3 was released last Thursday November 28th 2019, which also happens to be the day of the US Thanksgiving. This was not intentionally but we can say it's a big thanks from us to the community with a brand new major version of Camel - this does not come often by. In fact, it;s 10 years since Camel 2 hit the streets. So this 3rd generation is long overdue.
 
 
 This blog post highlights the noteworthy new features and improvements in Camel v3.
@@ -33,7 +33,7 @@ The Camel code-base is very large, and we have setup sub-projects for new innova
 A major goal for Camel 3 was to finally revamp the old aging website to use modern technologies and be able to auto-generate content from the source code. This has taken years to get to this point as we have built tools over the last many Camel 2.x releases that could take us closer.
 At the end of 2019 then the Camel community and others stepped up and provided the new art-work, logo, and look and feel for the new website - thank you very much!.
 
-For Camel 3.x we will continue to improve the website and the documentation. This is much easier for us to do, and also for people to contribute changes as its just a regular github PR to provide updates. We love contributions.
+For Camel 3.x we will continue to improve the website and the documentation. This is much easier for us to do, and also for people to contribute changes as it's just a regular github PR to provide updates. We love contributions.
 
 Zoran had some fun with the new look and feel and he added a little gem; if you stare at the front page, then you should see a little animation of the curved bezel ;)
 
